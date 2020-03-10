@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 65%;
+    margin: auto;
+    background-image:url("img/img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    border-bottom: 3px solid black;
+    margin-bottom: 10px;
+}
+
+h1{
+    display: inline-block;
+}
+
+img{
+    height: 75px;
+    vertical-align: middle;
+    border-bottom: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+h2{
+    margin-top: 15px;
+}
+
+.bottone{
+    padding: 2px;
+}
+
+.trenta{
+    background-color: red;
+    border-radius: 55px;
+    padding: 5px;
+}
+.checkboxuno{
+    border: 2px solid ;
+    margin-top: 15px;
+    background-color: white;
+    padding: 2px;
+
+}
+.checkbox{
+    border: 2px solid;
+    background-color: grey;
+    border-collapse: collapse;
+    padding-left: 2px;
+}
+.oggetto{
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+    margin-top: 30px;
+    border-top: 3px solid;
+}
+h3{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
